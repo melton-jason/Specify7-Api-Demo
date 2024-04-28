@@ -1,0 +1,23 @@
+Order,Family,Genus,Species,isAccepted,Author,AcceptedGenus,AcceptedSpecies,AcceptedAuthor
+Afrosoricida,Tenrecidae,Microgale,talazaci,Yes,"Major, 1896",,,
+Afrosoricida,Tenrecidae,Oryzorictes,talpoides,No,"G.Grandidier & Petit, 1930",Oryzorictes,hova,"A.Grandidier, 1870"
+Afrosoricida,Tenrecidae,Microgale,pulla,No,"Jenkins, 1988",Microgale,parvula,"G.Grandidier, 1934"
+Chiroptera,Miniopteridae,Miniopterus,fraterculus,Yes,"Thomas & Schwann, 1906",,,
+Chiroptera,Miniopteridae,Miniopterus,tristis,Yes,"Waterhouse, 1845",,,
+Chiroptera,Miniopteridae,Miniopterus,pusillus,Yes,"Dobson, 1876",,,
+Chiroptera,Vespertilionidae,Laephotis,wintoni,Yes,"Thomas, 1901",,,
+Chiroptera,Vespertilionidae,Laephotis,angolensis,Yes,"Monard, 1935",,,
+Chiroptera,Vespertilionidae,Chalinolobus,alboguttatus,No,"J.A.Allen, 1917",Glauconycteris,alboguttata,"J.A.Allen, 1917"
+Chiroptera,Vespertilionidae,Nycticeius,rueppellii,No,"Peters, 1866",Scoteanax,rueppellii,"Peters, 1866"
+Chiroptera,Natalidae,Chilonatalus,micropus,Yes,"Dobson, 1880",,,
+Chiroptera,Natalidae,Natalus,tumidifrons,No,"Miller, 1903",Chilonatalus,tumidifrons,"Miller, 1903"
+Carnivora,Otariidae,Arctocephalus,forsteri,Yes,"Lesson, 1828",,,
+Carnivora,Otariidae,Arctocephalus,philippii,Yes,"Peters, 1866",,,
+Carnivora,Otariidae,Phoca,jubata,No,"Schreber, 1776",Eumetopias,jubatus,"Schreber, 1776"
+Carnivora,Canidae,Canis,adustus,Yes,"Sundevall, 1847",,,
+Carnivora,Canidae,Canis,aureus,Yes,"Linnaeus, 1758",,,
+Carnivora,Canidae,Canis,latrans,Yes,"Say, 1823",,,
+Carnivora,Canidae,Canis,mesomelas,Yes,"Schreber, 1775",,,
+Carnivora,Canidae,Vulpes,alopex,No,"Linnaeus, 1758",Canis,alopex,"Linnaeus, 1758"
+Carnivora,Canidae,Lycalopex,griseus,No,"Gray, 1837",Lycalopex,gymnocercus,"G.Fischer, 1814"
+Carnivora,Canidae,Dusicyon,microtis,No,"Sclater, 1883",Atelocynus,microtis,"Sclater, 1883"
