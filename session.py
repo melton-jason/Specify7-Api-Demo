@@ -61,7 +61,7 @@ def construct_api_link(table: str, id: int):
 
 def ensure_login(func):
     """Decorator which ensures a function which accepts a Session as the first
-    parameter is logged in before the fucntion is called 
+    parameter is logged in before the function is called 
     """
     @wraps(func)
     def wrapped(session: "Session", *args: Tuple, **kwargs: Dict[str, Any]):
